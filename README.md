@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="CountDownTimer" title="Countdown" src=".github/screenPrint.png" />
+    <img alt="QuizApp" title="QuizApp" src=".github/screenPrint.png" />
 </h1>
 
 <p align="center">
@@ -24,20 +24,20 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/italotorreslima/CountDownTimer && cd CountDownTimer
+$ git clone https://github.com/italotorreslima/quizapp && cd quizapp
 ```
 
 ## 💻 Project
 
-[CountDown Timer](https://count-down-timer-nine.vercel.app/) to bring you even closer to the project! 💜
+[QuizApp](https://quizapp-iota.vercel.app/) to bring you even closer to the project! 💜
 
-This is a project inspired by **[Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)** done in April 26, 2021.
+This is a project inspired by **[Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)** done in April 28, 2021.
 
 ## 🔖 Layout
 
 You can view the project layout through the links below:
 
-- [Layout Web](https://uidesigndaily.com/posts/sketch-countdown-timer-day-876)
+- [Layout Web](https://www.uidesigndaily.com/posts/sketch-questionnaire-choice-submit-day-924)
 
 
 ---
