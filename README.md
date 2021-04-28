@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="QuizApp" title="QuizApp" src=".github/screenPrint.png" />
+    <img alt="QuizApp" title="QuizApp" src="github/screenPrint.png" />
 </h1>
 
 <p align="center">
